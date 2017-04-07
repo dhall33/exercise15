@@ -24,6 +24,9 @@ public class Main
                 sum+=count;
                 System.out.println(count);
             }
+            else if(limit<intMin) {
+                System.out.println("That number is too low!");
+            }
         }
         System.out.println("The sum is " + sum);
         
