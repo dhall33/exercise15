@@ -1,4 +1,5 @@
-
+//Daniel Hall
+//Program that sums up all even numbers between 2 and an input
 import java.util.Scanner;
 
 public class Main
